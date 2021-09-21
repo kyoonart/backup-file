@@ -1,5 +1,9 @@
+-- Hammerspoon
 -- -------------------------------
--- Watcher for changes of init.lua
+-- Watcher for changes of init.lua.    
+
+
+
 -- -------------------------------
 function reloadConfig(files)
   doReload = false
