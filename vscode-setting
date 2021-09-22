@@ -1,0 +1,79 @@
+{
+  "editor.fontSize": 14,
+  // power model
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "powermode.shakeIntensity": 0,
+  "leetcode.endpoint": "leetcode-cn",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "editor.fontLigatures": false,
+  "editor.fontWeight": "normal", 
+  "liveServer.settings.donotShowInfoMsg": true,
+  "materialTheme.accent": "Bright Teal",
+  "editor.renderIndentGuides": false,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.jsx":"javascriptreact", 
+},
+  "tabnine.experimentalAutoImports": true,
+  "tslint.alwaysShowRuleFailuresAsWarnings": true,
+  "prettier.tabWidth": 2,
+  "vetur.format.defaultFormatter.html": "prettier",
+  "tslint.jsEnable": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true,
+    "source.fixAll.eslint": true
+  },
+  //修改底部状态栏的颜色
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#3c3c3c",
+    "statusBar.noFolderBackground": "#0A0A0D",
+    "statusBar.debuggingBackground": "#511f1f"
+  },
+  "workbench.iconTheme": "vscode-icons-mac",
+  "git.autofetch": true,
+  "javascript.validate.enable": false,
+  "leetcode.defaultLanguage": "javascript",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.linkedEditing": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.enableSmartCommit": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "appworks.materialSources": [],
+}
